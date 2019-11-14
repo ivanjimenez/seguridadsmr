@@ -13,17 +13,21 @@ Indica qué harías ante cada situación:**
   los ordenadores.
   g) Para el acceso a la sala de ordenadores solamente se necesita una llave, que está custodiada por el servicio de vigilancia.
   h) La operativa de la empresa se desarrolla principalmente en horario de nueve a cinco, de lunes a viernes. Pero durante ese tiempo no se puede parar ningún servicio del CPD
+  i) Se necesita que un Servidor tenga un voltaje de 220V constantemente ante problemas con la tensión eléctrica y otro grupo de servidores precisa otra solución que no haga falta 200V constantes.
+  j) Se necesita un nivel de fiabilidad en el pero de los casos. Explica en qué consiste.
 ```
 2. **Una empresa se traslada a una nueva ciudad y busca un edificio adecuado para instalar el CPD. Está dudando entre unas oficinas en el interior de la ciudad, un parque empresarial o un parque industrial. Indica qué recomendarías en cada situación:**
 ```
   a) El CPD posee varias máquinas antiguas que hacen mucho ruido.
-  b) Por la noche, el parque empresarial es una zona de copas muy animada.
+  b) El parque empresarial está en una zona sísmica.
   c) El parque industrial solamente proporciona la nave, mientras que el edificio de la ciudad y el parque 
   empresarial tienen varias instalaciones disponibles.
   d) El parque industrial carece de seguridad centralizada: cada nave contrata su servicio particular.
   e) La mayoría de las empresas del parque industrial se dedican al almacenaje de maderas y pinturas.
   f) En el parque empresarial ya dispone de oficina alguna de las empresas que le suministran material informático y comunicaciones.
   g) En el edificio de la ciudad solo tienen disponible la última planta o alguna de las plantas subterráneas.
+  e) Qué nivel de fiabilidad se debe adoptar si el CPD no es susceptible a interrupciones.
+  NOTA: Tengamos en cuenta que los precios de los terrenos: ciudad > parque empresarial > parque industrial
 ```
 3. **Una consultora realiza una auditoría al CPD de una empresa. Elabora un informe con las principales conclusiones. Para cada punto, evalúa si es correcto o, en cambio, tú propones alguna modificación:**
  ```
@@ -41,6 +45,9 @@ Indica qué harías ante cada situación:**
   k) En la planta superior está el laboratorio de I+D de una empresa de telecomunicaciones.
 ```
 4. **Qué capacidad en Voltioamperios debe tener el SAI si tenemos en un CPD 20 servidores que consumen 550W, 15 switches de 0.12kW, 4 Routers de 0.2kw.**
+
 5. **Qué capacidad en voltioamperio tiene un CPD con 10 equipos servidores que necesitan 3.5 A cada uno, 7 Switchs de 1.2A y 10 Routers de 1.8A**
+
 6. **Calcula la potencia en W de un equipo que tiene un amperajae de 1400mA y 0,230 kV.**
+
 7. **Se requiere saber el consumo de dos equipos durante un mes. Dichos equipos están encendidos 8 horas al día de L a D. El precio de kW/h está a 0,1332 €**
