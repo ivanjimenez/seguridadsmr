@@ -50,4 +50,4 @@ Indica qué harías ante cada situación:**
 
 6. **Calcula la potencia en W de un equipo que tiene un amperajae de 1400mA y 0,230 kV.**
 
-7. **Se requiere saber el consumo de dos equipos durante un mes (uno con consumo de 580W y otro de 900K). Dichos equipos están encendidos 8 horas al día de L a D. El precio de kW/h está a 0,1332 €**
+7. **Se requiere saber el consumo de dos equipos durante un mes (uno con consumo de 580W y otro de 900W). Dichos equipos están encendidos 8 horas al día de L a D. El precio de kW/h está a 0,1332 €**
