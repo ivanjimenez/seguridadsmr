@@ -51,3 +51,19 @@ Indica qué harías ante cada situación:**
 6. **Calcula la potencia en W de un equipo que tiene un amperajae de 1400mA y 0,230 kV.**
 
 7. **Se requiere saber el consumo de dos equipos durante un mes (uno con consumo de 580W y otro de 900W). Dichos equipos están encendidos 8 horas al día de L a D. El precio de kW/h está a 0,1332 €**
+
+8. Calcular la potencia que consume en 90 min un servdor de los empleados en el aula de
+Tecnología, sabiendo que al conectarlo a una tensión de 230 V, circula una intensidad de 10000 mA. **Nota: para calcular el tiempo usar la fórmula E = P . t (donde t será el tiempo en segundos y E será Wattios, pero si t son horas serán Wh ó Wattios/hora).**
+
+9. Se tiene una potencia de trabajo de 2.2kW, y una tensión de 220v a la que se conecta. Calcular la intensidad de corriente en Amperios (A).
+
+10. Un servidor está alimentado con una tensión de 220 V y consume una corriente de 10 A.
+Calcular la potencia y la energía consumidas si está funcionando durante 5 horas
+
+11-El contador de electricidad de una sala de servidores tiene las siguientes lecturas:
+```
+Lectura anterior: 141.621 kWh
+Lectura actual: 146.063 kWh
+```
+La cuota por facturación de potencia asciende a 40 € y el alquiler del contador a 4 € en los dos meses de
+facturación. Si el precio del kWh es 0,1 €, calcular el importe total de la factura, incluido el 16% de IVA.
